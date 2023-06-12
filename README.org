@@ -1,0 +1,10 @@
+* grovel-locally
+
+Grovel using cffi and cache the result locally to the system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/grovel-locally.git   |
+| commit  | 0f71ad6  |
+| systems | grovel-locally |
+|---------+-------------------------------------------|
+
